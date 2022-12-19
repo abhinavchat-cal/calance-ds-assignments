@@ -1,0 +1,113 @@
+"","State","Senator","Party","Pro2005","Anti2005","Pro2006","Anti2006","Pro2007","Anti2007","PctPro"
+"1","Alabama","Session","R",1,18,0,7,2,13,7.32
+"2","Alabama","Shelby","R",1,19,0,7,1,14,4.76
+"3","Alaska","Murkowski","R",2,17,1,6,6,9,21.95
+"4","Alaska","Stevens","R",1,19,1,6,4,11,14.29
+"5","Arizona","Kyle","R",1,19,2,5,2,13,11.9
+"6","Arizona","McCain","R",9,11,2,4,0,15,26.83
+"7","Arkansas","Lincoln","D",13,7,3,4,10,5,61.9
+"8","Arkansas","Pryor","D",12,8,3,4,9,6,57.14
+"9","California","Boxer","D",18,1,7,0,12,3,90.24
+"10","California","Fenstein","D",18,2,7,0,13,2,90.48
+"11","Colorado","Allard","R",1,18,2,5,3,12,14.63
+"12","Colorado","Salazar","D",16,4,5,2,11,4,76.19
+"13","Connecticut","Dodd","D",18,1,7,0,9,6,82.93
+"14","Connecticut","Lieberman","I",14,2,5,0,14,1,91.67
+"15","Delaware","Biden","D",18,2,7,0,10,5,83.33
+"16","Delaware","Carper","D",16,4,5,2,14,1,83.33
+"17","Florida","Martinez","R",2,18,0,7,2,13,9.52
+"18","Florida","Nelson","D",18,2,3,4,15,0,85.71
+"19","Georgia","Chambliss","R",0,20,0,7,1,14,2.38
+"20","Georgia","Isakson","R",1,19,0,7,1,14,4.76
+"21","Hawaii","Akaka","D",15,5,7,0,13,2,83.33
+"22","Hawaii","Inouye","D",13,5,5,2,12,3,75
+"23","Idaho","Craig","R",1,19,0,6,2,13,7.32
+"24","Idaho","Crapo","R",1,19,0,7,2,13,7.14
+"25","Illinois","Durbin","D",19,1,7,0,14,1,95.24
+"26","Illinois","Obama","D",19,1,7,0,10,5,85.71
+"27","Indiana","Bayh","D",17,3,7,0,11,4,83.33
+"28","Indiana","Lugar","R",4,15,1,6,8,7,31.71
+"29","Iowa","Grassley","R",2,18,1,6,5,10,19.05
+"30","Iowa","Harkin","D",19,1,5,2,13,2,88.1
+"31","Kansas","Brownback","R",2,18,2,5,1,14,11.9
+"32","Kansas","Roberts","R",0,20,0,7,0,15,0
+"33","Kentucky","Bunning","R",0,20,0,5,1,14,2.5
+"34","Kentucky","McConnell","R",0,20,0,7,1,14,2.38
+"35","Lousiana","Landrieu","D",10,10,3,3,8,7,51.22
+"36","Lousiana","Vitter","R",2,18,0,7,0,15,4.76
+"37","Maine","Collins","R",14,6,5,2,15,0,80.95
+"38","Maine","Snowe","R",14,6,6,1,12,3,76.19
+"39","Maryland","Mikulskji","D",17,3,7,0,14,1,90.48
+"40","Maryland","Sarbanes","D",20,0,7,0,NA,NA,100
+"41","Maryland","Cardin","D",NA,NA,NA,NA,14,1,93.33
+"42","Massachusetts","Kennedy","D",19,0,7,0,14,1,97.56
+"43","Massachusetts","Kerry","D",19,1,5,0,14,1,95
+"44","Michigan","Levin","D",16,4,4,2,10,5,73.17
+"45","Michigan","Stabenow","D",17,3,5,2,10,5,76.19
+"46","Minnesota","Coleman","R",7,12,2,5,5,10,34.15
+"47","Minnesota","Dayton","D",18,2,6,1,NA,NA,88.89
+"48","Minnesota","Klobuchar","D",NA,NA,NA,NA,13,2,86.67
+"49","Mississippi","Cochran","R",0,20,1,6,0,15,2.38
+"50","Mississippi","Lott","R",0,18,0,7,0,15,0
+"51","Missouri","Bond","R",0,20,1,6,0,15,2.38
+"52","Missouri","Talent","R",3,17,1,6,NA,NA,14.81
+"53","Missouri","McCaskill","D",NA,NA,NA,NA,11,4,73.33
+"54","Montana","Baucus","D",11,9,5,1,10,5,63.41
+"55","Montana","Burns","R",1,19,1,6,NA,NA,7.41
+"56","Montana","Tester","D",NA,NA,NA,NA,12,3,80
+"57","Nebraska","Hagel","R",1,19,1,6,3,12,11.9
+"58","Nebraska","Nelson","D",6,14,3,4,10,5,45.24
+"59","Nevada","Ensign","R",4,16,3,4,5,10,28.57
+"60","Nevada","Reid","D",20,0,4,3,13,2,88.1
+"61","New Hampshire","Gregg","R",6,14,3,4,9,6,42.86
+"62","New Hampshire","Sununu","R",8,12,3,4,8,7,45.24
+"63","New Jersey","Corzine","D",16,0,NA,NA,NA,NA,100
+"64","New Jersey","Lautenberg","D",20,0,6,0,14,1,97.56
+"65","New Jersey","Menendez","D",NA,NA,7,0,14,1,95.45
+"66","New Mexico","Bingaman","D",14,4,7,0,14,1,87.5
+"67","New Mexico","Domenici","R",1,17,1,6,3,12,12.5
+"68","New York","Clinton","D",19,1,5,2,11,4,83.33
+"69","New York","Schumer","D",20,0,5,2,14,1,92.86
+"70","North Carolina","Burr","R",1,19,0,7,1,14,4.76
+"71","North Carolina","Dole","R",0,20,0,7,1,14,2.38
+"72","North Dakota","Conrad","D",12,6,3,4,11,4,65
+"73","North Dakota","Dorgan","D",13,6,3,4,13,2,70.73
+"74","Ohio","Brown","D",NA,NA,NA,NA,13,2,86.67
+"75","Ohio","DeWine","R",9,11,5,2,NA,NA,51.85
+"76","Ohio","Voinovich","R",3,17,3,4,3,12,21.43
+"77","Oklahoma","Coburn","R",1,19,2,5,1,14,9.52
+"78","Oklahoma","Inhofe","R",0,20,0,7,0,15,0
+"79","Oregon","Smith","R",9,11,1,6,11,4,50
+"80","Oregon","Wyden","D",19,1,7,0,13,2,92.86
+"81","Pennsylvania","Casey","D",NA,NA,NA,NA,15,0,100
+"82","Pennsylvania","Santorum","R",2,18,1,6,NA,NA,11.11
+"83","Pennsylvania","Specter","R",8,12,1,6,9,6,42.86
+"84","Rhode Island","Chafee","R",18,2,5,2,NA,NA,85.19
+"85","Rhode Island","Reed","D",20,0,7,0,14,1,97.62
+"86","Rhode Island","Whitehouse","D",NA,NA,NA,NA,14,1,93.33
+"87","South Carolina","DeMint","R",1,19,1,6,1,14,7.14
+"88","South Carolina","Graham","R",4,16,2,5,1,14,16.67
+"89","South Dakota","Johnson","D",16,3,5,2,5,1,81.25
+"90","South Dakota","Thune","R",3,16,1,6,5,10,21.95
+"91","Tennessee","Alexander","R",3,17,2,5,5,10,23.81
+"92","Tennessee","Corker","R",NA,NA,NA,NA,4,11,26.67
+"93","Tennessee","Frist","R",1,19,1,6,NA,NA,7.41
+"94","Texas","Cornyn","R",0,20,0,7,0,15,0
+"95","Texas","Hutchinson","R",1,19,0,7,1,14,4.76
+"96","Utah","Bennett","R",1,17,1,6,1,14,7.5
+"97","Utah","Hatch","R",2,17,1,6,2,13,12.2
+"98","Vermont","Jeffords","I",17,2,7,0,NA,NA,92.31
+"99","Vermont","Leahy","D",19,1,7,0,12,3,90.48
+"100","Vermont","Sanders","I",NA,NA,NA,NA,14,1,93.33
+"101","Virginia","Allen","R",1,19,0,7,NA,NA,3.7
+"102","Virginia","Warner","R",4,16,1,6,7,8,28.57
+"103","Virginia","Webb","D",NA,NA,NA,NA,13,2,86.67
+"104","Washington","Cantwell","D",18,2,7,0,13,2,90.48
+"105","Washington","Murray","D",19,1,7,0,13,2,92.86
+"106","West Virginia","Byrd","D",13,7,4,2,11,4,68.29
+"107","West Virginia","Rockefeller","D",16,3,5,2,11,4,78.05
+"108","Wisconsin","Feingold","D",18,2,7,0,14,1,92.86
+"109","Wisconsin","Kohl","D",15,5,5,2,14,1,80.95
+"110","Wyoming","Barrasso","R",NA,NA,NA,NA,2,4,33.33
+"111","Wyoming","Enzi","R",2,18,0,7,2,13,9.52
+"112","Wyoming","Thomas","R",3,17,0,7,0,2,10.34
